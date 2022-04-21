@@ -1,0 +1,5 @@
+Text
+Patato is sweet. 1
+I like this patato. 1
+Patato is bad. 0
+Patato is not sweet sweet. 0
